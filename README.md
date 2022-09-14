@@ -48,4 +48,4 @@ Microverse
 
 ## 📝 License
 
-&copy; Desta Legesse
+This project is licensed by [MIT](MIT.md).

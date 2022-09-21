@@ -15,9 +15,9 @@
 
 [Live Demo Link]()
 
-![alt text](./images/Screenshot_1.png)
-![alt text](./images/Screenshot_2.png)
-![alt text](./images/Screenshot_3.png)
+![Screenshot of Home page](./src/images/Screenshot_1.png)
+![Screenshot of Calculator page](./src/images/Screenshot_2.png)
+![Screenshot of  Quote page](./src/images/Screenshot_3.png)
 
 
 ## Getting Started

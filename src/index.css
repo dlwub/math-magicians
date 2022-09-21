@@ -1,6 +1,7 @@
 body {
   box-sizing: border-box;
   margin: 0;
+  padding: 0;
 }
 
 .button-container {
@@ -32,4 +33,65 @@ body {
 
 .orange {
   background: orange;
+}
+
+.nav-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 3rem;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.nav-list {
+  display: flex;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.nav-list li {
+  padding: 0 0.75rem;
+}
+
+.calculator-link {
+  border-left: solid 1px blue;
+  border-right: solid 1px blue;
+}
+
+.home-page,
+.quote-container,
+.calculator-container {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 2rem 3rem;
+}
+
+.welcome-message,
+.calculator-motto {
+  font-size: xx-large;
+  margin-bottom: 0;
+}
+
+.img-container {
+  background-image: url('./images/brain.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  height: 50vh;
+}
+
+.quote-container {
+  margin-bottom: 25%;
+}
+
+.quote {
+  font-size: xx-large;
+  margin-left: 4rem;
+}
+
+.footer {
+  padding: 2rem 0;
+  text-align: center;
+  background: #ccc;
+  font-size: large;
+  font-weight: bold;
 }

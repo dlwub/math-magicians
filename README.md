@@ -8,11 +8,16 @@
 ## Built With
 
 - React
+- React Router 6
 
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://dlwub.github.io/math-magicians/dist)
+[Live Demo Link]()
+
+![Screenshot Home page](./images/Screenshot_1.png)
+![Screenshot Calculator page](./images/Screenshot_2.png)
+![Screenshot Quote page](./images/Screenshot_3.png)
 
 
 ## Getting Started

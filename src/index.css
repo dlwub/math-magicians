@@ -62,7 +62,7 @@ body {
 .quote-container,
 .calculator-container {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  margin: 2rem 3rem;
+  margin: 3rem;
 }
 
 .welcome-message,
@@ -76,7 +76,7 @@ body {
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
-  height: 50vh;
+  height: 45vh;
 }
 
 .quote-container {

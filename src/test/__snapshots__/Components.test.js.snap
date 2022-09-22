@@ -1,0 +1,357 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Components Button should match snapshot when empty 1`] = `
+<button
+  type="button"
+/>
+`;
+
+exports[`Components Button should match snapshot when values passed in 1`] = `
+<button
+  className="btn"
+  type="button"
+>
+  7
+</button>
+`;
+
+exports[`Components Calculator should match snapshot 1`] = `
+<div
+  className="button-container"
+>
+  <button
+    className="btn row1"
+    type="button"
+  >
+    0
+  </button>
+  <button
+    className="btn"
+    onClick={[Function]}
+    type="button"
+  >
+    AC
+  </button>
+  <button
+    className="btn"
+    onClick={[Function]}
+    type="button"
+  >
+    +/-
+  </button>
+  <button
+    className="btn"
+    onClick={[Function]}
+    type="button"
+  >
+    %
+  </button>
+  <button
+    className="btn orange"
+    onClick={[Function]}
+    type="button"
+  >
+    ÷
+  </button>
+  <button
+    className="btn"
+    onClick={[Function]}
+    type="button"
+  >
+    7
+  </button>
+  <button
+    className="btn"
+    onClick={[Function]}
+    type="button"
+  >
+    8
+  </button>
+  <button
+    className="btn"
+    onClick={[Function]}
+    type="button"
+  >
+    9
+  </button>
+  <button
+    className="btn orange"
+    onClick={[Function]}
+    type="button"
+  >
+    x
+  </button>
+  <button
+    className="btn"
+    onClick={[Function]}
+    type="button"
+  >
+    4
+  </button>
+  <button
+    className="btn"
+    onClick={[Function]}
+    type="button"
+  >
+    5
+  </button>
+  <button
+    className="btn"
+    onClick={[Function]}
+    type="button"
+  >
+    6
+  </button>
+  <button
+    className="btn orange"
+    onClick={[Function]}
+    type="button"
+  >
+    -
+  </button>
+  <button
+    className="btn"
+    onClick={[Function]}
+    type="button"
+  >
+    1
+  </button>
+  <button
+    className="btn"
+    onClick={[Function]}
+    type="button"
+  >
+    2
+  </button>
+  <button
+    className="btn"
+    onClick={[Function]}
+    type="button"
+  >
+    3
+  </button>
+  <button
+    className="btn orange"
+    onClick={[Function]}
+    type="button"
+  >
+    +
+  </button>
+  <button
+    className="btn col2"
+    onClick={[Function]}
+    type="button"
+  >
+    0
+  </button>
+  <button
+    className="btn"
+    onClick={[Function]}
+    type="button"
+  >
+    .
+  </button>
+  <button
+    className="btn orange"
+    onClick={[Function]}
+    type="button"
+  >
+    =
+  </button>
+</div>
+`;
+
+exports[`Components CalculatorPage snapshot should match 1`] = `
+<div
+  className="calculator-container"
+>
+  <p
+    className="calculator-motto"
+  >
+    Let's do some Math!
+  </p>
+  <div
+    className="button-container"
+  >
+    <button
+      className="btn row1"
+      type="button"
+    >
+      0
+    </button>
+    <button
+      className="btn"
+      onClick={[Function]}
+      type="button"
+    >
+      AC
+    </button>
+    <button
+      className="btn"
+      onClick={[Function]}
+      type="button"
+    >
+      +/-
+    </button>
+    <button
+      className="btn"
+      onClick={[Function]}
+      type="button"
+    >
+      %
+    </button>
+    <button
+      className="btn orange"
+      onClick={[Function]}
+      type="button"
+    >
+      ÷
+    </button>
+    <button
+      className="btn"
+      onClick={[Function]}
+      type="button"
+    >
+      7
+    </button>
+    <button
+      className="btn"
+      onClick={[Function]}
+      type="button"
+    >
+      8
+    </button>
+    <button
+      className="btn"
+      onClick={[Function]}
+      type="button"
+    >
+      9
+    </button>
+    <button
+      className="btn orange"
+      onClick={[Function]}
+      type="button"
+    >
+      x
+    </button>
+    <button
+      className="btn"
+      onClick={[Function]}
+      type="button"
+    >
+      4
+    </button>
+    <button
+      className="btn"
+      onClick={[Function]}
+      type="button"
+    >
+      5
+    </button>
+    <button
+      className="btn"
+      onClick={[Function]}
+      type="button"
+    >
+      6
+    </button>
+    <button
+      className="btn orange"
+      onClick={[Function]}
+      type="button"
+    >
+      -
+    </button>
+    <button
+      className="btn"
+      onClick={[Function]}
+      type="button"
+    >
+      1
+    </button>
+    <button
+      className="btn"
+      onClick={[Function]}
+      type="button"
+    >
+      2
+    </button>
+    <button
+      className="btn"
+      onClick={[Function]}
+      type="button"
+    >
+      3
+    </button>
+    <button
+      className="btn orange"
+      onClick={[Function]}
+      type="button"
+    >
+      +
+    </button>
+    <button
+      className="btn col2"
+      onClick={[Function]}
+      type="button"
+    >
+      0
+    </button>
+    <button
+      className="btn"
+      onClick={[Function]}
+      type="button"
+    >
+      .
+    </button>
+    <button
+      className="btn orange"
+      onClick={[Function]}
+      type="button"
+    >
+      =
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Components Footer snapshot should match 1`] = `
+<div
+  className="footer"
+>
+  ©Desta Legesse Wubishet
+</div>
+`;
+
+exports[`Components Home snapshot should match 1`] = `
+<div
+  className="home-page"
+>
+  <p
+    className="welcome-message"
+  >
+    Welcome to our page!
+  </p>
+  <p
+    className="home-paragraph"
+  >
+    Math Magicians is a website where Math fans can read famous quotes on Mathematics and use a calculator to make computations.
+  </p>
+  <div
+    className="img-container"
+  />
+</div>
+`;
+
+exports[`Components Quote snapshot should match 1`] = `
+<div
+  className="quote-container"
+>
+  <p
+    className="quote"
+  >
+    Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding. - William Paul Thurston.
+  </p>
+</div>
+`;

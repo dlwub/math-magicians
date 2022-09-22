@@ -19,7 +19,6 @@
 ![Screenshot of Calculator page](./src/images/Screenshot_2.png)
 ![Screenshot of Quote page](./src.images/Screenshot_3.png)
 
-
 ## Getting Started
 
 To get a local copy of the code, please follow these step: 
